@@ -1,6 +1,10 @@
 .pinkdiv {
+  background-color: pink;
 }
 .purple {
+  background-color: purple;
 }
 .big {
+  font-size: 50px;
+  margin-top: 0px;
 }

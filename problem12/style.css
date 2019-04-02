@@ -1,9 +1,17 @@
 .container {
+  display: flex;
 }
 
 .smol {
+  height: 200px;
+  width: auto;
 }
 
 .col {
-    
+  font-size: 40px;
+  text-align: center;
+  margin: 50px;
+  border-style: dashed;
+  border-width: 2px;
+  padding: 30px;
 }

@@ -1,12 +1,17 @@
 .title {
-
+  text-align: center;
 }
 .subtitle {
-
+  margin-top: 0px;
+  padding-top: 0px;
 }
 .content {
-
+  text-align: left;
 }
 .emph {
+  font-style: italic;
+}
 
+.flex {
+  display: flex;
 }
