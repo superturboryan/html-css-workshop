@@ -1,11 +1,13 @@
 .centered {
-    text-align:center;
+    text-align: center;
 }
-#title {
-    font-size: 30pt;
+.title {
+    font-size: 30px;
+    margin-bottom: 6px;
 }
-#subtitle {
-    font-size:15pt;
+.subtitle {
+    font-size: 15px;
+    margin-top: 0;
 }
 div {
     background-color: gray;
@@ -13,10 +15,15 @@ div {
 li {
     list-style-type: none;
 }
-#content {
+.underlined {
     text-decoration: underline;
 
 }
 .monospaced {
-  font-family: monospace;
+    font-family: monospace;
+}
+
+/* Something new... */
+h1, h2 {
+    font-weight: normal;
 }

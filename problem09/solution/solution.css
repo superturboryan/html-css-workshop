@@ -18,5 +18,15 @@ li {
 
 }
 .monospaced {
-  font-family: monospace;
+    font-family: monospace;
 }
+
+/************************************
+Important note:
+***************
+    In this example you learned that we can use classes, ids, or tagnames to style elements.
+    In reality, when styling elements we should
+        - ALWAYS use classnames,
+        - NEVER use IDs,
+        - SOMETIMES use tagnames.
+************************************/

@@ -1,13 +1,13 @@
 .title {
-    font-size: 20pt;
+    font-size: 20px;
     text-align: center;
 }
 .subtitle {
-    font-size: 15pt;
+    font-size: 15px;
     text-align: center;
 }
 .content {
-   font-family: comic-sans;
+    font-family: comic-sans;
 }
 .emph {
     font-style: italic;

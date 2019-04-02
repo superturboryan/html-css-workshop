@@ -1,10 +1,14 @@
+# Problem 12
+
 ## Description
+
 Modify the style.css file so that it recreates the following image
 ![goal](screenshot.png)
 
 It does not need to be pixel perfect
 
 ## Submission
+
 It will automatically be submitted the next time you push.
 
 ## Reference
