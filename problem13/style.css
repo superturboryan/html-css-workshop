@@ -1,0 +1,23 @@
+img {
+  height: 200px;
+  width: auto;
+  margin: 5px;
+}
+
+.boxtitle {
+  text-align: center;
+}
+
+.dotted {
+  border-width: 2px;
+  border-style: dashed;
+}
+
+.flex {
+  display: flex;
+}
+
+.boxmargin {
+  margin-left: 10px;
+  margin-right: 10px;
+}
